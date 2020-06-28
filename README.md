@@ -1,4 +1,4 @@
-# MVVM-Personna
+# Personna
 Loads list of users using restful [API](https://randomuser.me/api/?results=10).
 
 ### Features
