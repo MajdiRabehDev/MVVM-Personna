@@ -1,4 +1,4 @@
-# Personna
+# Personna-MVVM-Koin-Retrofit-LiveData
 Loads list of users using restful [API](https://randomuser.me/api/?results=10).
 
 ### Features
